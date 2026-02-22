@@ -6,7 +6,7 @@ on:
       - v4
 
 env:
-  THEME_NAME: anuppuccin
+  THEME_NAME: blue-topaz
 
 permissions:
   contents: read
