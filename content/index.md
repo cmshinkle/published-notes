@@ -6,4 +6,4 @@ Welcome to my digital garden — a collection of notes, research, and ideas that
 
 ## Topics
 
-- [[Church]] — Projects related to church
+- [[Church Projects]] — Projects related to church
